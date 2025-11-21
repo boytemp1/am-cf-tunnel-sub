@@ -22,7 +22,7 @@ let ipLocal = [
     '127.0.0.1:1234#amclubss.com 博客教程(cfnat)'
 ];
 
-const defaultIpUrlTxt = base64Decode('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC50eHQ=');
+const defaultIpUrlTxt = base64Decode('aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JveXRlbXAxLzIwMjUwODA1YWN0L3JlZnMvaGVhZHMvbWFpbi9pcFVybC50eHQ=');
 let randomNum = 25;
 let ipUrlTxt = [defaultIpUrlTxt];
 let ipUrlCsv = [];
